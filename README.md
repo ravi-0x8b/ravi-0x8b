@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 <p>I'm currently learning C++😊</p>
 <p>I'm interested in game, web and embedded development⚙️</p>
 
-[![Ravi GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravi-Valent7m)](https://github.com/ravi-0x8b/github-readme-stats)
+[![Ravi GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi-0x8b)](https://github.com/ravi-0x8b/github-readme-stats)
