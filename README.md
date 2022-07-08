@@ -2,7 +2,7 @@
 Ravi-Valent7m/Ravi-Valent7m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">Hi {name}, I'm Ravi, a <em>Computer Science student<em> and passionate about technology.<br> I am always looking for new knowledge and challenges.</p>
+<p align="center">Hi {user.getName()}, I'm Ravi, a <em>Computer Science student<em> and passionate about technology.<br> I am always looking for new knowledge and challenges.</p>
 
 <div align="center">
   <p>Technologies I'm <em>Studying Constantly</em></p>
